@@ -1,0 +1,9 @@
+C:\Users\Kevin\Projects\Csharp\HeadFirstCSharp\A Day at the Races\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe.config
+C:\Users\Kevin\Projects\Csharp\HeadFirstCSharp\A Day at the Races\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Projects\Csharp\HeadFirstCSharp\A Day at the Races\A Day at the Races\A Day at the Races\obj\Debug\A_Day_at_the_Races.Properties.Resources.resources
+C:\Users\Kevin\Projects\Csharp\HeadFirstCSharp\A Day at the Races\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.csproj.GenerateResource.Cache
+C:\Users\Kevin\Projects\Csharp\HeadFirstCSharp\A Day at the Races\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe
+C:\Users\Kevin\Projects\Csharp\HeadFirstCSharp\A Day at the Races\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.pdb
+C:\Users\Kevin\Projects\Csharp\HeadFirstCSharp\A Day at the Races\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.exe
+C:\Users\Kevin\Projects\Csharp\HeadFirstCSharp\A Day at the Races\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.pdb
+C:\Users\Kevin\Projects\Csharp\HeadFirstCSharp\A Day at the Races\A Day at the Races\A Day at the Races\obj\Debug\A_Day_at_the_Races.Form1.resources
